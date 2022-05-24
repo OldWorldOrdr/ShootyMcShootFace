@@ -1,4 +1,4 @@
-name = "Shooty McShoot Face"
+name = "Shooty McShootFace"
 author = "OldWorldOrder"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "45a22fc05b186687c669d5a13d72a53769b74f058038c7ee0d100aa0828312b8"
+hash = "9fa267a174bb4aca1ac786184d384935bad8c169f350e16f6526d608bc8eda9d"
 
 [versions]
+forge = "40.1.23"
 minecraft = "1.18.2"
-quilt = "0.16.1"
-
-[options]
-acceptable-game-versions = "1.18.1"
