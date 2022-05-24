@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENCE"
-hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+file = "mods/OptiFine_1.18.2_HD_U_H7.jar"
+hash = "79264fa2994e78a48321abe75191162290dcb6e9e307287eee60e53ff8962a99"
 
 [[files]]
 file = "mods/framework.pw.toml"
@@ -12,11 +12,6 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
 hash = "060c172189a1addc9fe72afa684dcacd3cc25eb2e5edff4ea84a0e3a21d50293"
-metafile = true
-
-[[files]]
-file = "mods/optifine.pw.toml"
-hash = "c859cc92048b4624a7c15e1203533a646cc82cacdae04b4a53e4153cd3854957"
 metafile = true
 
 [[files]]
