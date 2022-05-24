@@ -15,6 +15,11 @@ hash = "060c172189a1addc9fe72afa684dcacd3cc25eb2e5edff4ea84a0e3a21d50293"
 metafile = true
 
 [[files]]
+file = "mods/neat.pw.toml"
+hash = "7b9561549d90b44d769749e0fc7d72d1290b8369a33d38960ef7d6c2475a2b4b"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "f8f95e711d587b3a68654f117e2d20f35b0a14c7b53e0ef4c8697395e5ad0bb8"
 metafile = true
