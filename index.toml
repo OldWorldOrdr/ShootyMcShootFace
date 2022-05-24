@@ -5,6 +5,11 @@ file = "mods/OptiFine_1.18.2_HD_U_H7.jar"
 hash = "79264fa2994e78a48321abe75191162290dcb6e9e307287eee60e53ff8962a99"
 
 [[files]]
+file = "mods/extended-clouds.pw.toml"
+hash = "b94d8a43b074c9ffaa150f656e05580f011e635f963626d2916d7a9b11fcbdc1"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "489c415beb5143e64a679fa6f5fcaf0d02e3d8576ea883a5afd68d8107bc3d07"
 metafile = true
