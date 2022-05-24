@@ -1,0 +1,16 @@
+name = "Shooty McShoot Face"
+author = "OldWorldOrder"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e36e07c5e9bcfa0f7ab3a64152f06b264cbecf7dc169faff0a0ceba2eebfcc22"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.16.1"
+
+[options]
+acceptable-game-versions = "1.18.1"
