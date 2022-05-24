@@ -1,4 +1,4 @@
 # ShootyMcShootFace
 funny modpack
 
-Download the MultiMC Instance on the releases page
+Download the MultiMC/PolyMC Instance on the releases page
