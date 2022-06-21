@@ -19,6 +19,11 @@ hash = "489c415beb5143e64a679fa6f5fcaf0d02e3d8576ea883a5afd68d8107bc3d07"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
 hash = "21b8f81e9e02e73ce49786a59bd356299bbc61b820b010164c18b1097d708f0d"
 metafile = true
