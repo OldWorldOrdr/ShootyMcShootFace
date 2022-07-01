@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "3895354d2ed928a1b2da60a53e615fe78ed9655d36e17a3cdcb646a6f2f0d0c1"
+hash = "d218cf98d3f72e03b0f1fa8c7dde2ef30b94cced82bab7e17ea3bf38aa4281b1"
 
 [[files]]
 file = "mods/OptiFine_1.18.2_HD_U_H7.jar"
@@ -10,35 +10,35 @@ hash = "79264fa2994e78a48321abe75191162290dcb6e9e307287eee60e53ff8962a99"
 
 [[files]]
 file = "mods/extended-clouds.pw.toml"
-hash = "cb7c4ac7585b87b3b70aeb5094df07de4efea69c9518a4e122e4fc7076f1740a"
+hash = "8c1be0e411b9c4ed198a33cd7e7290dcedcd4f00c866a31eef9632cc9ae42dfa"
 metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "489c415beb5143e64a679fa6f5fcaf0d02e3d8576ea883a5afd68d8107bc3d07"
+hash = "fd113e005c012bca9bc95d67fa0ad2bc9b7686e7f8a01cf9820d2911d2fcc2ea"
 metafile = true
 
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
-hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
+hash = "4104f92d84e4427edb053e122dd7ce7fcfb60ccc20e5fb74967887509cdb94d5"
 metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "21b8f81e9e02e73ce49786a59bd356299bbc61b820b010164c18b1097d708f0d"
+hash = "6e832fb54c55d48f273147912bb59250b06148e88aaeca084cfbbe6d9f91ab22"
 metafile = true
 
 [[files]]
 file = "mods/neat.pw.toml"
-hash = "7b9561549d90b44d769749e0fc7d72d1290b8369a33d38960ef7d6c2475a2b4b"
+hash = "254128873bc2f89c8eb6c3f052af504d62c96d559b449bf444697417af9da2a7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "20448dbeb5645214b3bc8be9a9390041ac69bd08d0bdced9ed740bccdaa9cc8a"
+hash = "34705769206c43cfec5efbdfa03e83c8e45760f01bef03148d9bfc2ccc0b7360"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "190fecdf68f0b26083782f2175a71133e01659a1268390f72749d9d28953569b"
+hash = "d11326b837826d06340a2695d4d916635cfe2678761f1c839a4537b5ca3b223a"
 metafile = true
